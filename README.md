@@ -1,11 +1,16 @@
 # hello-word
 **Durian Dan** said:
 >This is the beginning
-
-plus ultra
+```python
 class me():
   def __init__(self,age,height,emotion):
     self.age = age
     self.height = height
     self.emotion = emotion
-  pass
+
+  def plus_ultra(self):
+    eudaimonia=0
+    while True:
+      time.sleep(1)
+      eudaimonia+=1
+```
